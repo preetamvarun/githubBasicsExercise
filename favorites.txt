@@ -13,9 +13,13 @@ Biriyani
 Paneer
 Butter Naan
 Pan Cakes
+Burgers
+Pizzas
+Chips
 
 // Adding my favourite animes 
 
 Death Note
 Dragon Ball Super 
 Jujutsu Kaisen 
+
