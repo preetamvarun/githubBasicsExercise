@@ -5,3 +5,10 @@ Pan Cakes
 Burgers
 Pizzas
 Chips
+
+/*** ADDING SOME MORE FOODS ***/
+
+Breads
+Biscuits
+Spinach
+Eggs
