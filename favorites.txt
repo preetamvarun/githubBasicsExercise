@@ -16,10 +16,15 @@ Pan Cakes
 Burgers
 Pizzas
 Chips
+Breads
+Biscuits
+Spinach
+Eggs
 
 // Adding my favourite animes 
 
 Death Note
 Dragon Ball Super 
 Jujutsu Kaisen 
+
 
